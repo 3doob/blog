@@ -1,6 +1,6 @@
 .doob-nav{
     position: relative;
-    left: 200px;
+    left: 50px;
 }
 .layui-pr{
     position: absolute;
@@ -15,7 +15,7 @@
 .logo {
     position: absolute;
     left: 0;
-    top: 16px;
+    top: 12px;
 }
 .logo img {
     width: 82px;
@@ -23,6 +23,17 @@
 }
 .layui-container{
     overflow: hidden;
+}
+.layui-btn-group-100{
+     width:100%;
+}
+.layui-btn-8{
+    width: 8%;
+    padding: 0;
+}
+.layui-btn-34{
+    width: 34%;
+    padding: 0;
 }
 /**
 
